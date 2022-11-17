@@ -1,5 +1,5 @@
 
-# spoonful
+# SPOONFUL
 
 
 
@@ -12,7 +12,6 @@
 
   <p>
     <a href="https://spoonful-recipe.netlify.app">View Demo</a>
-    ·
   </p>
 </div>
 
@@ -57,10 +56,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
+1. Get a free API Key [HERE](https://forkify-api.herokuapp.com/v2)
 2. Clone the repo
    ```sh
-   git clone https:
+   git clone https://github.com/trucn0311/spoonful.git
    ```
 3. Install NPM packages
    ```sh
@@ -83,7 +82,7 @@ This is an example of how to list things you need to use the software and how to
 
 Tiffany Nguyen - [@linkedin](https://www.linkedin.com/in/truc-nguyen-480222230/) - trucn0311@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: 
 
 
 
